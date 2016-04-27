@@ -7,4 +7,4 @@ The files included in this repository are as follows:
 
 2. R script to analyse data collected by logger, including data manipulation and statistics
 
-3. Sample data to aplly to R script
+3. Sample data to apply to R script
